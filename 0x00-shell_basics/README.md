@@ -1,1 +1,1 @@
-List command for hidden files
+List command for both long list and hidden files
