@@ -1,1 +1,1 @@
-Changing ownership respectively
+Using symbolic links
