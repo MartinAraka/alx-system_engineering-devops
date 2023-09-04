@@ -1,1 +1,1 @@
-Writing script into file
+Duplicating a line
