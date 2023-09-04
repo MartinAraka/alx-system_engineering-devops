@@ -1,1 +1,1 @@
-Finding files to delete
+Counting directories
