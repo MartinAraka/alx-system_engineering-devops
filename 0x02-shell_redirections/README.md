@@ -1,1 +1,1 @@
-How to print a given script
+How to use escape
