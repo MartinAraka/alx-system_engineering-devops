@@ -1,1 +1,1 @@
-Counting directories
+Displaying new files
