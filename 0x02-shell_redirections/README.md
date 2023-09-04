@@ -1,1 +1,1 @@
-Creating a good file
+Writing script into file
