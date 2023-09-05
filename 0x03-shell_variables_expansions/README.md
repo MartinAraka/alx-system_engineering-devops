@@ -1,1 +1,1 @@
-Changing from binary
+Printing possible combinations
