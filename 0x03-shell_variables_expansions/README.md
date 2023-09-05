@@ -1,1 +1,1 @@
-Counting directories
+Listing environment variables
