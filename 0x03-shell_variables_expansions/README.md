@@ -1,1 +1,1 @@
-Divide and rule
+Displaying to the power of
