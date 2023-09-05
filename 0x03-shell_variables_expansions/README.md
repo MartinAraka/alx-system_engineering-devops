@@ -1,1 +1,1 @@
-Creating a global variable 
+Applying shell arithmetics
