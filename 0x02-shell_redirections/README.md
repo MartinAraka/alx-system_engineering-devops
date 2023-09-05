@@ -1,1 +1,1 @@
-Specifying pattern form
+Displaying lines without pattern
