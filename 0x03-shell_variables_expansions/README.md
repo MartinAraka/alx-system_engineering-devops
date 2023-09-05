@@ -1,1 +1,1 @@
-Listing environment variables
+List all variables
