@@ -1,1 +1,1 @@
-Displaying lines without pattern
+Displaying letters only
