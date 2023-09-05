@@ -1,1 +1,1 @@
-Applying shell arithmetics
+Divide and rule
