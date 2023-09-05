@@ -1,1 +1,1 @@
-Counting the words
+Specifying pattern form
