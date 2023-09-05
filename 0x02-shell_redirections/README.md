@@ -1,1 +1,1 @@
-Reversing characters
+Applying cut command
