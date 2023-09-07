@@ -1,1 +1,1 @@
-Applying cut command
+Finding files with gifs
