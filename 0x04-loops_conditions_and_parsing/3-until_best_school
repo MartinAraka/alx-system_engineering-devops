@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-#Script that prints Best School 10 times
+#This script prints "Best school" 10 times
 n=0
 until [ $n == 10 ];
 do
-        echo "Best School"
-        ((++n))
+	echo "Best school"
+	((++n))
 done
